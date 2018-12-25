@@ -1,2 +1,3 @@
 # serverless_websitecode_alpha
-my-Portflio
+
+This is my Portfolio that uses AWS and React!
