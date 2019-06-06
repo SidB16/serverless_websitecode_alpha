@@ -1,0 +1,12 @@
+<!-- bg video and quote card -->
+  <div class="section3">
+    <div class="video-wrapper" style="background-image:url(http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_2.jpg )">
+      <video class="bg-video" src="http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_2.mp4" autoplay loop muted></video>
+    </div>
+    <div class="inner">
+      <div class="content">
+        <blockquote>We’re in this together! All of our computers and phones join in a network
+to make the strongest supercomputer the world has ever seen.</blockquote>
+      </div>
+    </div>
+  </div>
