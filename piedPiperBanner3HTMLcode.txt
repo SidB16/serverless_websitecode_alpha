@@ -1,0 +1,12 @@
+<!-- bg video and quote card -->
+  <div class="section12">
+    <div class="video-wrapper" style="background-image:url(http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_3.jpg )">
+      <video class="bg-video" src="http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_3.mp4" autoplay loop muted></video>
+    </div>
+    <div class="inner">
+      <div class="content">
+        <blockquote>The more users that join our network, the more powerful it grows,
+and the better our world becomes. Available now, don’t miss out!</blockquote>
+      </div>
+    </div>
+  </div>
