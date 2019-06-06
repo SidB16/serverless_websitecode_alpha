@@ -1,0 +1,41 @@
+
+<header class="banner">
+  <div class="video-wrapper" style="background-image:url(http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_1.jpg )">
+    <video class="bg-video" src="http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_1.mp4" autoplay loop muted></video>
+  </div>
+
+  <div class="title">
+    <h1>PiperNet Is Here</h1>
+    <p class="sub">Follow us into the future.</p>
+  </div>
+
+
+//Dont need this logo wrapper!!!
+  <div class="logo-wrapper">
+    <a href="/"><img src="http://www.piedpiper.com/app/themes/pied-piper/dist/images/logo.svg"></a>
+  </div>
+
+//and dont need this header container
+<div class="home-header-container">
+    <div class="nav-bar-links">
+      <a class= "nav-bar-link" href="/#problem" onclick="window.smoothScroll('problem')">the problem</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link tech-anchor" href="/#piedpipercoin" onclick="window.smoothScroll('piedpipercoin')">PiedPiperCoin</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link tech-anchor" href="/#technology" onclick="window.smoothScroll('technology')">the tech</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link tech-anchor" href="/#developers" onclick="window.smoothScroll('developers')">developers</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link who-we-are-anchor" href="/#decentralization" onclick="window.smoothScroll('decentralization')">decentralization</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link who-we-are-anchor" href="/#team" onclick="window.smoothScroll('team')">the team</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link" href="/blog">blog</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link who-we-are-anchor" href="/#company" onclick="window.smoothScroll('company')">company history</a>
+      <span class="divider">|</span>
+      <a class= "nav-bar-link who-we-are-anchor" href="/#faq" onclick="window.smoothScroll('faq')">faq</a>
+    </div>
+  </div>
+
+</header>
